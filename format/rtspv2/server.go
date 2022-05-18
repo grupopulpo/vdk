@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/deepch/vdk/av"
+	"github.com/grupopulpo/vdk/av"
 )
 
 const (
